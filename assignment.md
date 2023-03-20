@@ -2,7 +2,15 @@
 
 ### Brief
 
-Enter instruction for assignment here.
+Establish the relationship between the Category and Item models. 
+
+Use Sequelize methods to create the following queries.
+
+1. Recreate the "meats" category. (Note what the id number will be)
+2. Create 2 items called "pork" and "chicken". (Provide the other details as needed.)
+3. Search for all fruits and display the name and description of each.
+4. Update all the meat prices to 120.99
+5. Select all items with prices greater than 20
 
 ### Submission 
 

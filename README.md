@@ -1,4 +1,4 @@
-# Insert Lesson Title
+# Sequelize and Models
 
 ## Dependencies
 
@@ -10,10 +10,11 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- How database tables would translate into models
+- How Sequelize can be used to create models
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- Use Sequelize to create models
 
 
 ## Lesson Plan
