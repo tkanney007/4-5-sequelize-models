@@ -69,7 +69,7 @@ const addCategory = async (categoryName) => {
     console.log(err);
   }
 };
-//1. Recreate the "meats" category. (Note what the id number will be)
+
 addCategory("meats");
 // 2. Create 2 items called "pork" and "chicken". (Provide the other details as needed.)
 
